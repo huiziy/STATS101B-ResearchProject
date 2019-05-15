@@ -19,6 +19,11 @@ header-includes:
 
 The goal of this research project is to find whether there is an effect of music on islander's memoriation ability. The research is conducted using the open platform `The Island`[^1].
 
+# Introduction
+
+According to an annual report produced by the Administration for Community Living, about one in every seven Americans is over the age of 65 in 2017, and the number will swell to one in five by 2040. Thus, there is a growing interests in identifying factors that are associated with age-associated cognitive decline. It has been suggested by some researches (Cirigliano, 2013; Michael, David, Gerald, & Volker, 2014) that the temporal pattern structure in music can enhance cognition and memory retention. This effect appears to be especially significant for people with cognitive deterioration/impairment. Moreover, some researchers suggests that different genres of music have differing effect on memory and cognition. For example, Rausher, Shaw and Ky (1993) found that listening to classical music improved intelligence and memory (the "Mozart Effect"); Darragh Bugter and Randy Carden (2012) found participants who listened to classical music scored significantly better on the memory task than those who listened to  the rap music. Our research focus is the effects of (1) different genre of music and (2) time lapse on memory retention in the age group of 65 or older (definition of senior according to Medicare).  
+
+
 # Conjecture
 
 From many publication references[^2], we found that music seems to have a positive effect on human being's memory. Different types of music tend to have various effects. In addition, the effect of music on memory varies among individuals, and the time it takes for the treatment to take effect also varies from one individual to another. *Therefore, our research project focuses on analyzing the effect of music on the islanders using a Latin Square design.*
